@@ -95,7 +95,7 @@ The functionality of the Booth Multiplier was verified through simulation using 
 The waveform illustrates the sequential operation of the Booth Multiplier during the multiplication process. It shows the clock-driven execution of the algorithm, including control signal generation, register updates, arithmetic operations, and the final multiplication result.
 
 <p align="center">
-  <img src="OUTPUT/SIMULATION WAVEFORM.png" alt="Simulation Waveform" width="1000"/>
+  <img src="OUTPUT/SIMULATION WAVEFORM.png" alt="Simulation Waveform" width="1200"/>
 </p>
 
 <p align="center">
